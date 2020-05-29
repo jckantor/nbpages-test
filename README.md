@@ -1,2 +1,2 @@
-# nbpages-test
+# nbpages-testing
 Repository for testing nbpages
